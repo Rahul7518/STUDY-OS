@@ -1,0 +1,90 @@
+/* ==========================================================================
+   UPSI-OS · dashboard.css
+   ========================================================================== */
+
+.dash-hero {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: var(--space-5);
+  margin-bottom: var(--space-6);
+}
+
+.hero-welcome {
+  background: linear-gradient(135deg, rgba(232,163,61,0.12), rgba(61,220,151,0.05));
+  border: 1px solid var(--border-accent);
+}
+.hero-welcome h2 { font-size: 22px; margin-bottom: 6px; }
+.hero-welcome p { color: var(--text-secondary); font-size: 13px; max-width: 520px; }
+.hero-welcome .countdown {
+  margin-top: var(--space-4);
+  display: flex; align-items: baseline; gap: 10px;
+}
+.hero-welcome .countdown .num { font-family: var(--font-mono); font-size: 34px; font-weight: 700; color: var(--accent-gold); }
+.hero-welcome .countdown .lbl { font-size: 12px; color: var(--text-muted); }
+
+.quote-card {
+  display: flex; flex-direction: column; justify-content: center;
+  border-left: 3px solid var(--accent-gold);
+  position: relative;
+}
+.quote-card .mark { font-family: var(--font-display); font-size: 40px; color: var(--accent-gold); opacity: 0.35; line-height: 0.6; }
+.quote-card p { font-size: 14px; line-height: 1.6; font-style: italic; color: var(--text-primary); margin-top: 6px; }
+.quote-card span { display: block; margin-top: var(--space-3); font-size: 11px; color: var(--text-muted); font-family: var(--font-mono); }
+
+.stat-row { grid-template-columns: repeat(4, 1fr); margin-bottom: var(--space-6); }
+
+.mission-card ul { display: flex; flex-direction: column; gap: 10px; }
+.mission-item {
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 12px; border-radius: var(--radius-sm);
+  background: var(--bg-panel-raised); border: 1px solid var(--border);
+  transition: border-color var(--dur-fast);
+}
+.mission-item:hover { border-color: var(--border-strong); }
+.mission-item.done { opacity: 0.55; }
+.mission-item.done .mission-text { text-decoration: line-through; }
+.mission-text { flex: 1; font-size: 13px; }
+.mission-meta { font-size: 10.5px; font-family: var(--font-mono); color: var(--text-muted); }
+
+.weekly-bars {
+  display: flex; align-items: flex-end; gap: 10px; height: 140px; padding-top: var(--space-3);
+}
+.weekly-bar-col { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 8px; height: 100%; justify-content: flex-end; }
+.weekly-bar {
+  width: 100%; max-width: 26px; border-radius: 6px 6px 3px 3px;
+  background: linear-gradient(180deg, var(--accent-teal), rgba(61,220,151,0.25));
+  transition: height var(--dur-slow) var(--ease-out);
+  min-height: 3px;
+}
+.weekly-bar-col.today .weekly-bar { background: linear-gradient(180deg, var(--accent-gold), rgba(232,163,61,0.3)); }
+.weekly-bar-label { font-size: 10.5px; color: var(--text-muted); font-family: var(--font-mono); }
+
+.subject-quick-grid { grid-template-columns: repeat(3, 1fr); }
+.subject-quick-card {
+  display: flex; flex-direction: column; gap: 10px; cursor: pointer;
+}
+.subject-quick-top { display: flex; align-items: center; justify-content: space-between; }
+.subject-dot { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+.subject-quick-card h4 { font-size: 13.5px; }
+.subject-quick-pct { font-family: var(--font-mono); font-size: 12px; color: var(--text-muted); }
+
+.revision-list { display: flex; flex-direction: column; gap: 8px; }
+.revision-row {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 9px 12px; border-radius: var(--radius-sm); background: var(--bg-panel-raised); border: 1px solid var(--border);
+  font-size: 12.5px;
+}
+
+.mock-summary-row { display: flex; align-items: center; justify-content: space-between; gap: var(--space-4); }
+.mock-summary-score { text-align: center; }
+.mock-summary-score .val { font-family: var(--font-mono); font-size: 26px; font-weight: 700; }
+.mock-summary-score .lbl { font-size: 10.5px; color: var(--text-muted); }
+
+@media (max-width: 1100px) {
+  .dash-hero { grid-template-columns: 1fr; }
+  .stat-row { grid-template-columns: repeat(2, 1fr); }
+  .subject-quick-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 640px) {
+  .stat-row, .subject-quick-grid { grid-template-columns: 1fr; }
+}
