@@ -158,14 +158,26 @@
   }
 
   /* ---------------------------------------------------------------- */
-  function renderUpcomingRevision() {
+function renderUpcomingRevision() {
     const subjects = Storage.getSubjects() || [];
-    const due = [];
+    const today = new Date(); today.setHours(0, 0, 0, 0);
+    const items = [];
     subjects.forEach((s) => s.topics.forEach((t) => t.subtopics.forEach((st) => {
-      if (st.revision === "due") due.push({ subject: s.name, color: s.color, name: st.name });
+      if (st.revision === "due" || st.nextRevisionDate) {
+        items.push({ subject: s.name, color: s.color, name: st.name, nextRevisionDate: st.nextRevisionDate, revision: st.revision });
+      }
     })));
+
+    // Sort: nearest date first, then items without dates last
+    items.sort((a, b) => {
+      if (a.nextRevisionDate && b.nextRevisionDate) return a.nextRevisionDate.localeCompare(b.nextRevisionDate);
+      if (a.nextRevisionDate) return -1;
+      if (b.nextRevisionDate) return 1;
+      return 0;
+    });
+
     const list = document.querySelector("[data-revision-list]");
-    if (due.length === 0) {
+    if (items.length === 0) {
       list.innerHTML = `<div class="empty-state">
         <div class="icon">${App.icon("empty")}</div>
         <h4>Nothing due for revision</h4>
@@ -173,12 +185,33 @@
       </div>`;
       return;
     }
-    list.innerHTML = due.slice(0, 6).map((d) => `
-      <div class="revision-row">
-        <span>${d.name}</span>
-        <span class="badge badge-medium" style="color:${d.color};background:${d.color}22">${d.subject}</span>
-      </div>
-    `).join("");
+
+    const overdue = items.filter((i) => i.nextRevisionDate && App.daysUntil(i.nextRevisionDate) < 0);
+    const upcoming = items.filter((i) => !i.nextRevisionDate || App.daysUntil(i.nextRevisionDate) >= 0);
+
+    let html = "";
+    if (overdue.length > 0) {
+      html += `<div style="margin-bottom:8px"><span class="badge badge-high" style="font-size:10px">OVERDUE (${overdue.length})</span></div>`;
+      html += overdue.slice(0, 4).map((d) => `
+        <div class="revision-row overdue">
+          <span>${d.name}</span>
+          <span class="badge badge-medium" style="color:${d.color};background:${d.color}22">${d.subject}</span>
+          <span class="mono" style="font-size:10px;color:var(--accent-red)">${App.formatDateFull(d.nextRevisionDate)}</span>
+        </div>
+      `).join("");
+    }
+    const displayUpcoming = upcoming.slice(0, 6 - (overdue.length > 0 ? Math.min(overdue.length, 4) : 0));
+    if (displayUpcoming.length > 0) {
+      if (overdue.length > 0) html += `<div style="margin:8px 0"><span class="badge badge-neutral" style="font-size:10px">UPCOMING (${displayUpcoming.length})</span></div>`;
+      html += displayUpcoming.map((d) => `
+        <div class="revision-row">
+          <span>${d.name}</span>
+          <span class="badge badge-medium" style="color:${d.color};background:${d.color}22">${d.subject}</span>
+          ${d.nextRevisionDate ? `<span class="mono" style="font-size:10px;color:var(--text-muted)">${App.formatDateFull(d.nextRevisionDate)}</span>` : ""}
+        </div>
+      `).join("");
+    }
+    list.innerHTML = html;
   }
 
   /* ---------------------------------------------------------------- */

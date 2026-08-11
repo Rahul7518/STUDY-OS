@@ -614,7 +614,53 @@ select { appearance: none; cursor: pointer; }
 .topic-card-head-actions { display: flex; align-items: center; gap: 4px; }
 
 /* ---------------------------------------------------------------------- */
-/* 16. Collapsible topics                                                   */
+/* 16. Revision scheduling — new feature for date tracking                 */
+/* ---------------------------------------------------------------------- */
+.subtopic-overdue {
+  border-color: rgba(229, 72, 77, 0.4) !important;
+  background: rgba(229, 72, 77, 0.04) !important;
+}
+.subtopic-overdue .revision-date-input {
+  border-color: var(--accent-red) !important;
+}
+
+.revision-date-input {
+  min-width: 0;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  padding: 4px 6px;
+  height: 26px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text-primary);
+  outline: none;
+  transition: border-color var(--dur-fast);
+}
+.revision-date-input:focus {
+  border-color: var(--accent-gold);
+}
+
+.revision-row.overdue {
+  border-left: 3px solid var(--accent-red);
+  margin-bottom: 6px;
+}
+.revision-row.overdue span:first-child {
+  color: var(--accent-red);
+}
+
+.revision-schedule-list .task-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-panel-raised);
+  border: 1px solid var(--border);
+}
+
+/* ---------------------------------------------------------------------- */
+/* 17. Collapsible topics                                                   */
 /* ---------------------------------------------------------------------- */
 .topic-header {
   cursor: pointer;

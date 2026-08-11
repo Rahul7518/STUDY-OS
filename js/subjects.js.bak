@@ -1,0 +1,2753 @@
+{
+  "exportedAt": "2026-07-30T06:22:15.700Z",
+  "schemaVersion": 1,
+  "data": {
+    "meta": {
+      "schemaVersion": 1,
+      "installedAt": "2026-07-27T05:41:38.568Z"
+    },
+    "profile": {
+      "name": "Aspirant",
+      "examDate": "",
+      "createdAt": "2026-07-27T05:41:38.571Z"
+    },
+    "subjects": [
+      {
+        "id": "subject_1785142851439",
+        "name": "HINDI",
+        "color": "#6c5ce7",
+        "topics": [
+          {
+            "id": "topic_1785143134091",
+            "name": "वर्ण विचार",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785143160298",
+                "name": "स्वर",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143173471",
+                "name": "व्यंजन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143188396",
+                "name": "अयोगवाह",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143205242",
+                "name": "उच्चारण स्थान",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143219004",
+                "name": "उच्चारण के आधार पर वर्गीकरण",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143231935",
+                "name": "अल्पप्राण–महाप्राण",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143243594",
+                "name": "घोष–अघोष",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143254477",
+                "name": "स्पर्श, ऊष्म, अन्तःस्थ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785143400605",
+            "name": "स्वर संधि",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785143416051",
+                "name": "दीर्घ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143434222",
+                "name": "गुण",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143439798",
+                "name": "वृद्धि",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143453996",
+                "name": "यण",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143463977",
+                "name": "अयादि",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785143486733",
+            "name": "व्यंजन संधि",
+            "priority": "high",
+            "subtopics": []
+          },
+          {
+            "id": "topic_1785143501959",
+            "name": "विसर्ग संधि",
+            "priority": "high",
+            "subtopics": []
+          },
+          {
+            "id": "topic_1785143526008",
+            "name": "समास",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785143544850",
+                "name": "अव्ययीभाव",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143556094",
+                "name": "तत्पुरुष",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143569008",
+                "name": "कर्मधारय",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143580862",
+                "name": "द्विगु",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143592709",
+                "name": "द्वंद्व",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785143603951",
+                "name": "बहुव्रीहि",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150252841",
+            "name": "karak",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785237205914",
+                "name": "karak",
+                "completed": true,
+                "revision": "due",
+                "notes": "karta- ne\nkarm- ko \nkaran - se,dwara\nsamradaan-ko, ke lie\naapdaan - se\nsamnamdh - ka,ki,ke\nadhikaran - me, par\nsambodhan - he! o! are!\n\n"
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150274681",
+            "name": "kriya",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152381650",
+                "name": "सकर्मक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152391794",
+                "name": "अकर्मक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152401948",
+                "name": "प्रेरणार्थक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152410727",
+                "name": "संयुक्त क्रिया",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150294349",
+            "name": "vakya suddhi",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152033105",
+                "name": "लिंग संबंधी अशुद्धियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152048565",
+                "name": "वचन संबंधी अशुद्धियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152059002",
+                "name": "कारक संबंधी अशुद्धियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152070503",
+                "name": "सर्वनाम संबंधी अशुद्धियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152080476",
+                "name": "विशेषण संबंधी अशुद्धियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152090651",
+                "name": "क्रिया संबंधी अशुद्धियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152102326",
+                "name": "वर्तनी संबंधी अशुद्धियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152111530",
+                "name": "विराम चिन्ह संबंधी अशुद्धियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150317060",
+            "name": "ashuddhiyaa",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785388495177",
+                "name": "ashuddhiyaa",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150336034",
+            "name": "muhawre lokoktiya",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152141585",
+                "name": "अर्थ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152153159",
+                "name": "प्रयोग",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152161768",
+                "name": "समानार्थी मुहावरे",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150364216",
+            "name": "Anek Shabdon ke Liye Ek Shabd",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152179098",
+                "name": "सामान्य",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152188272",
+                "name": "प्रशासनिक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152197444",
+                "name": "साहित्यिक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150378584",
+            "name": "Upsarg-Pratyay",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152241635",
+                "name": "संस्कृत उपसर्ग",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152250931",
+                "name": "हिन्दी उपसर्ग",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152261358",
+                "name": "विदेशी उपसर्ग",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152273876",
+                "name": "कृत",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152283329",
+                "name": "तद्धित",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150391341",
+            "name": "Paryayvachi & Vilom",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152299896",
+                "name": "प्रमुख शब्दों के पर्याय",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152318033",
+                "name": "सामान्य विलोम",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152326560",
+                "name": "उपसर्ग आधारित विलोम",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150438094",
+            "name": "Shabd Vichar",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152443942",
+                "name": "तत्सम",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152452306",
+                "name": "तद्भव",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152460200",
+                "name": "देशज",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152469133",
+                "name": "विदेशी",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152478297",
+                "name": "रूढ़",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152486277",
+                "name": "यौगिक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152493436",
+                "name": "योगरूढ़",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150448930",
+            "name": "Sangya, Sarvanam",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152514342",
+                "name": "व्यक्तिवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152523599",
+                "name": "जातिवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152532397",
+                "name": "भाववाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152541570",
+                "name": "द्रव्यवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152552027",
+                "name": "समूहवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152573263",
+                "name": "पुरुषवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152587084",
+                "name": "निजवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152596972",
+                "name": "निश्चयवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152603584",
+                "name": "संबंधवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152611645",
+                "name": "प्रश्नवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152624666",
+                "name": "अनिश्चयवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150465917",
+            "name": "Visheshan",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152649819",
+                "name": "गुणवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152658929",
+                "name": "संख्यावाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152667102",
+                "name": "परिमाणवाचक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152675277",
+                "name": "सार्वनामिक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150478120",
+            "name": "Ling, Vachan",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152692914",
+                "name": "पुल्लिंग",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152703813",
+                "name": "स्त्रीलिंग",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152714190",
+                "name": "लिंग परिवर्तन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152728874",
+                "name": "एकवचन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152736979",
+                "name": "बहुवचन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150490883",
+            "name": "Kaal",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785388456704",
+                "name": "kaal",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150503715",
+            "name": "Vachya",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152754672",
+                "name": "कर्तृवाच्य",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152763067",
+                "name": "कर्मवाच्य",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152770754",
+                "name": "भाववाच्य",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150518016",
+            "name": "Vartan",
+            "priority": "medium",
+            "subtopics": []
+          },
+          {
+            "id": "topic_1785150542883",
+            "name": "Vakya",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152794533",
+                "name": "सरल",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152803855",
+                "name": "मिश्र",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152811255",
+                "name": "संयुक्त",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150555524",
+            "name": "Bhasha ka Itihas",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152933485",
+                "name": "विकास",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152945054",
+                "name": "बोलियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152953539",
+                "name": "उपभाषाएँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150567209",
+            "name": "Boliyan",
+            "priority": "high",
+            "subtopics": []
+          },
+          {
+            "id": "topic_1785150578151",
+            "name": "Hindi Sahitya",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152968187",
+                "name": "प्रमुख लेखक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152978643",
+                "name": "प्रमुख कवि",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152986202",
+                "name": "रचनाएँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152995165",
+                "name": "उपनाम",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785153005679",
+                "name": "साहित्यिक युग",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150597172",
+            "name": "Varna Vichar",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785152846519",
+                "name": "स्वर",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152856212",
+                "name": "व्यंजन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152863532",
+                "name": "अयोगवाह",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152877005",
+                "name": "घोष",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152883081",
+                "name": "अघोष",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152894437",
+                "name": "अल्पप्राण",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785152903563",
+                "name": "महाप्राण",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150607727",
+            "name": "Anekarthi Shabd",
+            "priority": "medium",
+            "subtopics": []
+          },
+          {
+            "id": "topic_1785150626459",
+            "name": "Ras",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785153034376",
+                "name": "नौ रस",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785153042535",
+                "name": "स्थायी भाव",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150642962",
+            "name": "Alankar",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785153055094",
+                "name": "अनुप्रास",
+                "completed": true,
+                "revision": "due",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785153063594",
+                "name": "यमक",
+                "completed": true,
+                "revision": "due",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785153070912",
+                "name": "श्लेष",
+                "completed": false,
+                "revision": "due",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150653730",
+            "name": "Viram Chinh",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785310530068",
+                "name": "chinhe",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785150673388",
+            "name": "Chhand",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785153291114",
+                "name": "मात्रिक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785153298574",
+                "name": "वर्णिक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785153306162",
+                "name": "मुक्तक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785153183348",
+            "name": "अर्थालंकार",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785153233287",
+                "name": "उपमा",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785153245003",
+                "name": "रूपक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785153254784",
+                "name": "उत्प्रेक्षा",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785153263770",
+                "name": "अतिशयोक्ति",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785153273698",
+                "name": "मानवीकरण",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "subject_1785145427784",
+        "name": "math",
+        "color": "#d63031",
+        "topics": [
+          {
+            "id": "topic_1785154647242",
+            "name": "Percentage (2–3 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785213252920",
+                "name": "Basic Percentage",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213261751",
+                "name": "Percentage Increase/Decrease",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213274487",
+                "name": "Successive Percentage",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213282492",
+                "name": "Population",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213291519",
+                "name": "Consumption",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213298676",
+                "name": "Exam Marks",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213308334",
+                "name": "Fraction ↔ Percentage Conversion",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785154669691",
+            "name": "Profit & Loss + Discount (2–3 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785213351924",
+                "name": "Profit Loss Discount",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213361081",
+                "name": "Marked Price",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213369497",
+                "name": "Successive Discount",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213376681",
+                "name": "False Weight",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785154700828",
+            "name": "Time & Work (1–2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785213391386",
+                "name": "Work Efficiency",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213398618",
+                "name": "Men–Days",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213405681",
+                "name": "Pipes & Cisterns",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213412569",
+                "name": "Alternate Working",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785155788464",
+            "name": "Ratio & Proportion (2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785213463045",
+                "name": "Ratio Proportion",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213471282",
+                "name": "Direct Proportion",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213481892",
+                "name": "Inverse Proportion",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213488837",
+                "name": "Partnership",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785155811355",
+            "name": "Time, Speed & Distance (1–2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785213503241",
+                "name": "Work Efficiency",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213509959",
+                "name": "Men–Days",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213517607",
+                "name": "Pipes & Cisterns",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213524823",
+                "name": "Alternate Working",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213536596",
+                "name": "Basic TSD",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213545648",
+                "name": "Train Boat & Stream",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213556245",
+                "name": "Relative Speed",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785155828159",
+            "name": "Simple Interest & Compound Interest (1–2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785213578262",
+                "name": "SI CI",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213586408",
+                "name": "Difference SI & CI",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213594599",
+                "name": "Installments (Basic)",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785155850161",
+            "name": "Average (1 Question)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785213616347",
+                "name": "Simple Average",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213625125",
+                "name": "Weighted Average",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785155920208",
+            "name": "Number System (2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785213639908",
+                "name": "Divisibility",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213648302",
+                "name": "HCF LCM",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213657789",
+                "name": "Remainder",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213666998",
+                "name": "Unit Digit",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213682287",
+                "name": "Factors & Multiples",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213689677",
+                "name": "Even–Odd",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213697950",
+                "name": "Prime Numbers",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785155937668",
+            "name": "Data Interpretation (1–2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785213745758",
+                "name": "Table Bar Graph Pie Chart Line Graph",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213753724",
+                "name": "Mixed DI",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785213777201",
+            "name": "Simplification (1–2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785213796120",
+                "name": "BODMAS",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213803486",
+                "name": "Fractions",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213811468",
+                "name": "Decimal",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213820080",
+                "name": "Square",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213826949",
+                "name": "Cube",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213836188",
+                "name": "Square Root",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785213844325",
+                "name": "Cube Root",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785215009714",
+            "name": "Mixture & Alligation (0–1 Question)",
+            "priority": "medium",
+            "subtopics": []
+          },
+          {
+            "id": "topic_1785215022257",
+            "name": "Partnership (0–1 Question)",
+            "priority": "medium",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "id": "subject_1785219080100",
+        "name": "GK",
+        "color": "#6c5ce7",
+        "topics": [
+          {
+            "id": "topic_1785219103271",
+            "name": "भारतीय संविधान (3–5 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785219121133",
+                "name": "संविधान निर्माण",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219129593",
+                "name": "संविधान सभा",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219156840",
+                "name": "प्रस्तावना",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219170065",
+                "name": "मूल अधिकार",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219177969",
+                "name": "मूल कर्तव्य",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219187926",
+                "name": "राज्य के नीति निदेशक तत्व",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219197390",
+                "name": "संशोधन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219207989",
+                "name": "राष्ट्रपति",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219216887",
+                "name": "उपराष्ट्रपति",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219224141",
+                "name": "प्रधानमंत्री",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219232143",
+                "name": "राज्यपाल",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219255896",
+                "name": "मुख्यमंत्री",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219265807",
+                "name": "संसद",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219274517",
+                "name": "राज्य विधानमंडल",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219283911",
+                "name": "न्यायपालिका",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219292993",
+                "name": "चुनाव आयोग",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219302101",
+                "name": "CAG",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219310245",
+                "name": "वित्त आयोग",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219319057",
+                "name": "अनुसूचियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219327276",
+                "name": "महत्वपूर्ण अनुच्छेद",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785219396463",
+            "name": "प्राचीन भारत",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785219407692",
+                "name": "सिंधु घाटी सभ्यता",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219417803",
+                "name": "वैदिक काल",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219427960",
+                "name": "महाजनपद",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219435455",
+                "name": "जैन धर्म",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219444129",
+                "name": "बौद्ध धर्म",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219452048",
+                "name": "मौर्य",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219461908",
+                "name": "गुप्त",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785219484758",
+            "name": "मध्यकालीन भारत",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785219496107",
+                "name": "दिल्ली सल्तनत",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219503813",
+                "name": "मुगल साम्राज्य",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219512913",
+                "name": "भक्ति आन्दोलन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219521507",
+                "name": "सूफी आन्दोलन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785219537485",
+            "name": "आधुनिक भारत",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785219550607",
+                "name": "यूरोपियों का आगमन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219559076",
+                "name": "1857",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219568134",
+                "name": "कांग्रेस",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219576648",
+                "name": "गांधी युग",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219584645",
+                "name": "क्रांतिकारी आन्दोलन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219593383",
+                "name": "गवर्नर जनरल एवं वायसराय",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219602964",
+                "name": "स्वतंत्रता अधिनियम",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785219638988",
+            "name": "उत्तर प्रदेश विशेष (3–5 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785219650795",
+                "name": "इतिहास",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219658826",
+                "name": "जिले",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219667407",
+                "name": "नदियाँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219677838",
+                "name": "सिंचाई परियोजनाएँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219685900",
+                "name": "राष्ट्रीय उद्यान",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219694779",
+                "name": "वन्यजीव अभयारण्य",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219708101",
+                "name": "प्रमुख मेले",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219716331",
+                "name": "संस्कृति",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219724460",
+                "name": "नृत्य",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219733158",
+                "name": "GI Tags",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219741008",
+                "name": "पर्यटन स्थल",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219749390",
+                "name": "योजनाएँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785219757269",
+                "name": "प्रशासन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785220060351",
+            "name": "भारतीय राजव्यवस्था (Constitution के अलावा)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785220072976",
+                "name": "पंचायती राज",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220082530",
+                "name": "स्थानीय निकाय",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220090910",
+                "name": "संवैधानिक संस्थाएँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220098442",
+                "name": "गैर-संवैधानिक संस्थाएँ",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785220392765",
+            "name": "other important topics",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785220419963",
+                "name": "National Parks",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220428448",
+                "name": "Ramsar Sites",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220474553",
+                "name": "National Days International Days Themes",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220506361",
+                "name": "पुस्तकें एवं लेखक",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220519723",
+                "name": "अंतरराष्ट्रीय संगठन",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220592611",
+                "name": "Green Revolution",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220602084",
+                "name": "Crops Irrigation Soil",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785220634156",
+            "name": "Miscellaneous GK",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785220780651",
+                "name": "First in India",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220788792",
+                "name": "First in UP",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220797047",
+                "name": "Nicknames",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220806459",
+                "name": "Important Places",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220815333",
+                "name": "Superlatives",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785220651875",
+            "name": "धर्म एवं दर्शन",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785220725924",
+                "name": "वेद",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220734371",
+                "name": "उपनिषद",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220741930",
+                "name": "पुराण",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220749706",
+                "name": "बौद्ध परिषद",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785220757769",
+                "name": "जैन परिषद",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "subject_1785226484510",
+        "name": "reasoning",
+        "color": "#6c5ce7",
+        "topics": [
+          {
+            "id": "topic_1785226508575",
+            "name": "Analogy (सादृश्य) (2–3 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785226524430",
+                "name": "Word Analogy",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226532532",
+                "name": "Number Analogy",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226539848",
+                "name": "Alphabet Analogy",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226546612",
+                "name": "Letter Pair",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226554967",
+                "name": "Figure Analogy",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226571487",
+            "name": "Classification / Odd One Out (2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785226582992",
+                "name": "Word Classification",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226589852",
+                "name": "Number Classification",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226597691",
+                "name": "Letter Classification",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226605466",
+                "name": "Figure Classification",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226620138",
+            "name": "Series (2–3 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785226659250",
+                "name": "Number Series---Missing Number Wrong Number Mixed Pattern",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226675650",
+                "name": "Alphabet Series--- Letter Series Missing Letter Group Series",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226694703",
+                "name": "Alphanumeric Series",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226710710",
+            "name": "Coding–Decoding (2–3 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785226722465",
+                "name": "Letter Coding",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226730398",
+                "name": "Number Coding",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226738328",
+                "name": "Mixed Coding",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226745166",
+                "name": "Chinese Coding",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785226752963",
+                "name": "New Pattern Coding",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226769719",
+            "name": "Blood Relation (1–2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227188787",
+                "name": "Family Tree",
+                "completed": true,
+                "revision": "revised",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227197761",
+                "name": "Coded Blood Relation",
+                "completed": true,
+                "revision": "revised",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227208507",
+                "name": "Puzzle Based Blood Relation",
+                "completed": true,
+                "revision": "revised",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226782153",
+            "name": "Direction Sense Test (1–2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227238098",
+                "name": "Distance Direction Shortest Distance Final Direction",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226798437",
+            "name": "Ranking & Order (1–2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227254829",
+                "name": "Rank",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227263516",
+                "name": "Position",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227271209",
+                "name": "Left–Right",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227279177",
+                "name": "Top–Bottom",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226812273",
+            "name": "Syllogism (1–2 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227292452",
+                "name": "Basic Syllogism",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227298296",
+                "name": "Venn Method",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227306917",
+                "name": "Possibility Based",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226827355",
+            "name": "Puzzle (2–3 Questions)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227320114",
+                "name": "Linear Arrangement",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227325412",
+                "name": "Circular Arrangement",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227336130",
+                "name": "Floor Puzzle",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227344144",
+                "name": "Box Puzzle",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227351758",
+                "name": "Scheduling Puzzle",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226838453",
+            "name": "Venn Diagram (1–2 Questions)",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227438780",
+                "name": "Two Sets",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227444464",
+                "name": "Three Sets",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227450116",
+                "name": "Four Sets",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226848751",
+            "name": "Seating Arrangement (1–2 Questions)",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227392570",
+                "name": "Linear",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227399153",
+                "name": "Circular",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227404670",
+                "name": "Double Row",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226859861",
+            "name": "Statement & Conclusion (1 Question)",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227470528",
+                "name": "Statement–Conclusion",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227489296",
+                "name": "Statement–Assumption",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227495419",
+                "name": "Statement–Course of Action",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226895428",
+            "name": "Alphabet Test (1 Question)",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227514060",
+                "name": "Alphabet Position",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227528299",
+                "name": "Alphabet Position",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227532247",
+                "name": "Word Formation",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226908963",
+            "name": "Number Ranking (0–1 Question)",
+            "priority": "low",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227546468",
+                "name": "Greater–Smaller Position Based",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226919328",
+            "name": "Clock & Calendar (1 Question)",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227556915",
+                "name": "Calendar",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227562850",
+                "name": "Day Finding",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227568445",
+                "name": "Leap Year",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227575608",
+                "name": "Clock Angle",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226929553",
+            "name": "Mathematical Operations (1 Question)",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227585926",
+                "name": "Symbol Replacement",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227591951",
+                "name": "Operator Change",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226942434",
+            "name": "Input–Output (0–1 Question)",
+            "priority": "low",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227605727",
+                "name": "Word Input Number Input",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226955857",
+            "name": "Data Sufficiency (0–1 Question)",
+            "priority": "low",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227626286",
+                "name": "Statement Based",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227631510",
+                "name": "Two Statement Problems",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226966437",
+            "name": "Decision Making (0–1 Question)",
+            "priority": "low",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227701921",
+                "name": "Situation Based Logical Decision",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226975957",
+            "name": "Logical Sequence (1 Question)",
+            "priority": "medium",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227715790",
+                "name": "Event Sequence Process Sequence",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226986570",
+            "name": "Cause & Effect (0–1 Question)",
+            "priority": "low",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227731247",
+                "name": "Cause & Effect",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785226996353",
+            "name": "Assertion & Reason (0–1 Question)",
+            "priority": "low",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227741324",
+                "name": "Assertion & Reason",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785227020811",
+            "name": "Cube & Dice",
+            "priority": "high",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227757508",
+                "name": "Open Dice",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227763161",
+                "name": "Folded Cube",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              },
+              {
+                "id": "subtopic_1785227769191",
+                "name": "Folded Cube",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "id": "topic_1785227034579",
+            "name": "Mirror & Water Image",
+            "priority": "low",
+            "subtopics": [
+              {
+                "id": "subtopic_1785227782082",
+                "name": "Mirror Image Water Image",
+                "completed": false,
+                "revision": "pending",
+                "notes": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "planner": {
+      "2026-07-28": {
+        "date": "2026-07-28",
+        "questionTarget": 100,
+        "questionsCompleted": 50,
+        "hourTarget": 6,
+        "hoursStudied": 6.5,
+        "tasks": [
+          {
+            "id": "t_1785228296392",
+            "text": "hindi syllubus",
+            "done": true
+          },
+          {
+            "id": "t_1785228311350",
+            "text": "math syllubus",
+            "done": true
+          },
+          {
+            "id": "t_1785228329099",
+            "text": "reasoning syllubus",
+            "done": true
+          },
+          {
+            "id": "t_1785228341051",
+            "text": "hindi syllubus too",
+            "done": true
+          },
+          {
+            "id": "t_1785228360935",
+            "text": "complete/fix site",
+            "done": true
+          }
+        ],
+        "revisionTasks": [
+          {
+            "id": "r_1785228393352",
+            "text": "family tree",
+            "done": true
+          },
+          {
+            "id": "r_1785228412307",
+            "text": " code blood relation",
+            "done": true
+          },
+          {
+            "id": "r_1785228475918",
+            "text": "puzzel base blood relation",
+            "done": true
+          }
+        ]
+      },
+      "2026-07-29": {
+        "date": "2026-07-29",
+        "questionTarget": 100,
+        "questionsCompleted": 20,
+        "hourTarget": 6,
+        "hoursStudied": 7.5,
+        "tasks": [],
+        "revisionTasks": []
+      },
+      "2026-07-30": {
+        "date": "2026-07-30",
+        "questionTarget": 100,
+        "questionsCompleted": 0,
+        "hourTarget": 6,
+        "hoursStudied": 0,
+        "tasks": [
+          {
+            "id": "t_1785388567466",
+            "text": "6-7 hindi topic",
+            "done": false
+          },
+          {
+            "id": "t_1785388586978",
+            "text": "work on math fromula book",
+            "done": false
+          },
+          {
+            "id": "t_1785388608554",
+            "text": "practice of reasoning",
+            "done": false
+          },
+          {
+            "id": "t_1785388631244",
+            "text": "5 topic of gk",
+            "done": false
+          }
+        ],
+        "revisionTasks": [
+          {
+            "id": "r_1785388706973",
+            "text": "alnkaar",
+            "done": false
+          }
+        ]
+      },
+      "2026-08-02": {
+        "date": "2026-08-02",
+        "questionTarget": 100,
+        "questionsCompleted": 0,
+        "hourTarget": 6,
+        "hoursStudied": 0,
+        "tasks": [],
+        "revisionTasks": [
+          {
+            "id": "r_1785388721569",
+            "text": "alankaar",
+            "done": false
+          }
+        ]
+      }
+    },
+    "mocks": [],
+    "notes": [
+      {
+        "id": "note_1785130927846",
+        "title": "revesion data",
+        "body": "<div>30july--shles,yamak,anuprash</div>",
+        "subjectId": "",
+        "updatedAt": "2026-07-30T05:22:34.033Z"
+      }
+    ],
+    "settings": {
+      "theme": "dark",
+      "dailyQuestionTarget": 100,
+      "dailyHourTarget": 6
+    },
+    "streak": {
+      "current": 4,
+      "longest": 4,
+      "lastActiveDate": "2026-07-30",
+      "history": [
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30"
+      ]
+    }
+  }
+}

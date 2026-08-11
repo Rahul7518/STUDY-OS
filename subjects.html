@@ -74,12 +74,14 @@
 
     <div class="flex items-center gap-2" style="flex-wrap:wrap;margin-bottom:var(--space-4)" data-subject-tabs></div>
 
-    <div class="flex items-center gap-2" style="margin-bottom:var(--space-5)">
+    <div class="flex items-center gap-2" style="flex-wrap:wrap;margin-bottom:var(--space-5)">
       <span class="text-muted mono" style="font-size:11px;margin-right:4px">PRIORITY</span>
       <span class="chip active" data-priority-filter="all">All</span>
       <span class="chip" data-priority-filter="high">High</span>
       <span class="chip" data-priority-filter="medium">Medium</span>
       <span class="chip" data-priority-filter="low">Low</span>
+      <span class="chip" data-priority-filter="overdue" style="border-color:var(--accent-red)">🔴 Overdue</span>
+      <span class="chip" data-priority-filter="upcoming">📅 Upcoming</span>
     </div>
 
     <div class="card" style="margin-bottom:var(--space-5)" data-subject-progress></div>

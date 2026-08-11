@@ -55,6 +55,32 @@
     document.querySelector("[data-hour-done]").value = currentPlan.hoursStudied;
     updateMiniProgress();
     renderTasks();
+    renderRevisionSchedule();
+  }
+
+  function renderRevisionSchedule() {
+    const list = document.querySelector("[data-revision-schedule-list]");
+    const subjects = Storage.getSubjects() || [];
+    const scheduled = [];
+    subjects.forEach((s) => s.topics.forEach((t) => t.subtopics.forEach((st) => {
+      if (st.nextRevisionDate === selectedDate) {
+        scheduled.push({ subject: s.name, color: s.color, name: st.name, completed: st.completed });
+      }
+    })));
+
+    if (scheduled.length === 0) {
+      list.innerHTML = `<div class="empty-state" style="padding:16px">
+        <p>No revisions scheduled for this date.</p>
+      </div>`;
+      return;
+    }
+
+    list.innerHTML = scheduled.map((r) => `
+      <div class="task-row ${r.completed ? "done" : ""}" style="margin-bottom:6px">
+        <span style="flex:1;font-size:12.5px;${r.completed ? "text-decoration:line-through;color:var(--text-muted)" : ""}">${r.name}</span>
+        <span class="badge badge-medium" style="font-size:9px;color:${r.color};background:${r.color}22">${r.subject}</span>
+      </div>
+    `).join("");
   }
 
   function persist(showToast = true) {

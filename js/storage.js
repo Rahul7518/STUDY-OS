@@ -113,6 +113,7 @@ const Storage = (() => {
             completed: false,
             revision: "pending", // pending | due | revised
             notes: "",
+            nextRevisionDate: "", // ISO date string (YYYY-MM-DD) or empty
           })),
         })),
       }));
