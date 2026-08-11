@@ -1,7 +1,6 @@
 # UPSI-OS
 
-A fully offline, desktop-style preparation console for a serious UP SI
-(Uttar Pradesh Sub Inspector) aspirant. UPSI-OS is not a course platform
+A fully offline, desktop-style preparation console for a serious  aspirant. STUDY-OS is not a course platform
 and not a mock-test platform — it is a personal command center for
 organizing and tracking your own preparation: syllabus progress, daily
 planning, mock-test history, and notes, all in one place.
